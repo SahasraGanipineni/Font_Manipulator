@@ -37,4 +37,5 @@ canvas{
     background-image: url('canvas_braground.jpg');
     box-shadow: 10px 10px 10px grey;
     border-radius: 20px;
+    margin-top: 60px;
 }

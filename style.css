@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-image: url('backgroung.jpg');
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 60px !important;
+    box-shadow: 10px 10px 10px grey;
+    font-family: 'Smooch', cursive;
+}
+
+p{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#font_size{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: brown;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+canvas{
+    background-image: url('canvas_braground.jpg');
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+}
